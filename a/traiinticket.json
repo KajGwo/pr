@@ -1,0 +1,9 @@
+{
+"passenger name": "John Doe",
+"Departure time": 14.20,
+"Arrival time": 16.20,
+"Ticket price": 4.99,
+"Ticket expired": false,
+"destination": "Gdańsk",
+
+}
