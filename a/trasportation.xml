@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transports>
+    <transport name="bus" time="30" destination="work">
+        <atts>
+            <att>crowded</att>
+            <att>quicker than car when busy</att>
+        </atts>
+    </transport>
+    <transport name="tram" time="30" destination="work">
+    <atts>
+        <att>kanary</att>
+        <att>quicker than bus</att>
+    </atts>
+ </transport>
+    <transport name="car" time="15" destination="everywhere else">
+        <atts>
+            <att>comfortable</att>
+            <att>quickest usually</att>
+        </atts>
+    </transport>
+</transports>
